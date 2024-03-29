@@ -48,7 +48,7 @@ return 0;
 
 ```
 
-##OUTPUT
+# OUTPUT
 
 ```
 The process id: 98
@@ -80,7 +80,7 @@ else
 
 ```
 
-##OUTPUT
+# OUTPUT
 
 ```
 I am parent, my pid is 97
@@ -116,7 +116,7 @@ exit(0);
 }
 ```
 
-##OUTPUT
+# OUTPUT
 
 ```
 Running ps with execlp
